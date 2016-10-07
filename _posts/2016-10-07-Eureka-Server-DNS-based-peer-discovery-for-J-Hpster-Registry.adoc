@@ -1,0 +1,4 @@
+= Eureka Server DNS-based peer discovery for JHipster-Registry
+:hp-tags: spring, cloud, netflix, eureka, aws, ec2, peer, discovery, jhipster, registry, jhipster-registry
+
+WARNING: This configuration is strongly discouraged as-is and i take no responsibility whatsoever conce
