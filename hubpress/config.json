@@ -1,1 +1,36 @@
-{"meta":{"username":"Brzhk","repositoryName":"Brzhk.github.io","branch":"master"},"site":{"title":"Abandonned Project #404","description":"It was just fun to set up. I'm sure you cant see the drafts i've started writing, and i probably have forgotten abt them since then.","url":"https://Brzhk.github.io"},"socialnetwork":{"twitter":"https://twitter.com/Brzhk","github":"https://github.com/Brzhk"},"theme":{"name":"Casper","url":"//Brzhk.github.io/themes/casper"}}
+{
+  "meta": {
+    "username": "Brzhk",
+    "repositoryName": "Brzhk.github.io",
+    "branch": "master"
+  },
+  "site": {
+    "title": "Abandonned Project #404",
+    "description": "It was just fun to set up. I'm sure you cant see the drafts i've started writing, and i probably have forgotten abt them since then.",
+    "url": "https://Brzhk.github.io"
+  },
+  "socialnetwork": {
+    "twitter": "https://twitter.com/Brzhk",
+    "github": "https://github.com/Brzhk"
+  },
+  "theme": {
+    "name": "casper",
+    "url": "//Brzhk.github.io/themes/casper"
+  },
+  "urls": {
+    "site": "https://Brzhk.github.io",
+    "hubpress": "https://brzhk.github.io",
+    "theme": "//Brzhk.github.io/themes/casper",
+    "images": "https://Brzhk.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
+  }
+}
