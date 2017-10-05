@@ -29,13 +29,13 @@
     "stackoverflow": ""
   },
   "theme": {
-    "name": "uno",
+    "name": "saga",
     "url": "//Brzhk.github.io/themes/casper"
   },
   "urls": {
     "site": "https://Brzhk.github.io",
     "hubpress": "https://brzhk.github.io",
-    "theme": "//Brzhk.github.io/themes/casper",
+    "theme": "//Brzhk.github.io/themes/uno",
     "images": "https://Brzhk.github.io/images"
   },
   "initialisationConfigComponent": {
